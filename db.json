@@ -14,11 +14,6 @@
       "desc": "The McDonald's Bacon, Egg & Cheese Biscuit breakfast sandwich features a warm, buttermilk biscuit brushed with real butter, thick cut Applewood smoked bacon, a fluffy folded egg, and a slice of melty American cheese. There are 460 calories in a Bacon, Egg & Cheese Biscuit at McDonald's. ",
       "ingredients": [
         {
-          "id": 1,
-          "name": "Biscuit",
-          "img": "https://s7d1.scene7.com/is/image/mcdonalds/biscuit"
-        },
-        {
           "id": 2,
           "name": "Folded Egg",
           "img": "https://s7d1.scene7.com/is/image/mcdonalds/folded_egg"
@@ -3429,7 +3424,7 @@
     }
   ],
   "Login": [],
-  "todo":[],
-  "users":[],
-  "appointments":[]
+  "todo": [],
+  "users": [],
+  "appointments": []
 }
